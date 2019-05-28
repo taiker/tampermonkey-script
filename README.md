@@ -1,6 +1,7 @@
 # Tampermonkey-Script
 
 > This project applies to the browser's script plugin(tampermonkey).
+> It can help you to remove ad bar/video.
 
 # Support website list
 * 8maple
